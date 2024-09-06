@@ -1,0 +1,12 @@
+Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
+
+    Memahami bahasa pemrograman Dart sebelum menggunakan Flutter sangat penting karena Dart adalah bahasa yang digunakan untuk membuat aplikasi dengan Flutter. Berikut beberapa alasan mengapa pemahaman Dart penting:
+
+    1. Dasar Flutter: Semua kode Flutter ditulis dengan Dart. Jadi, untuk bisa mengembangkan aplikasi Flutter, kita harus tahu cara menulis kode dalam Dart.                                                                                                                                                            
+    2. Sintak dan Struktur: Dart punya sintak dan konsep sendiri seperti variabel, fungsi, kelas, dan kontrol aliran. Memahami ini membantu kita menulis kode yang lebih baik dan efisien di Flutter.
+    3. Pemrograman Berorientasi Objek (OOP): Dart adalah bahasa OOP, dan Flutter menggunakan banyak konsep OOP seperti kelas dan pewarisan. Ini penting untuk membuat aplikasi yang terstruktur.
+    4. Pemrograman Asinkron: Dart mendukung operasi asinkron seperti panggilan API dan interaksi UI. Kita perlu memahami ini untuk menangani proses yang terjadi bersamaan tanpa membuat aplikasi macet.
+    5. Optimasi dan Performa: Dart memungkinkan aplikasi berjalan cepat dengan kompiler yang mengubah kode menjadi kode mesin asli. Memahami Dart membantu kita membuat aplikasi yang lebih cepat dan efisien.
+    6. Debugging dan Pemeliharaan: Mengetahui Dart memudahkan kita untuk menemukan dan memperbaiki bug dalam aplikasi Flutter.
+    
+    Jadi, memahami Dart membuat kita lebih siap dan efisien dalam menggunakan Flutter untuk membuat aplikasi mobile.
